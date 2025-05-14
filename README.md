@@ -28,7 +28,7 @@
 
 ## How to Get Started 🚀
 
-1. **Visit Our Website**: Learn more about our product and its capabilities at [https://innovarashopix.onrender.com/].
+1. **Visit Our Website**: Learn more about our product and its capabilities at [InnovaraShopix](https://innovarashopix.onrender.com/).
 2. **Sign Up for a Free Trial**: Experience the benefits firsthand with our free trial.
 3. **Explore Resources**: Check out our [User  Guide](https://github.com/InnovaraShopix/innovarashopix/wiki.md) for tips and best practices.
 
